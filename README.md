@@ -27,6 +27,7 @@ Program, girilen rakamların ve toplamının ASCII ve binary gösterimlerini ekr
 6-bit ve 8-bit sınırları hakkında bilgi verir.
 
 Notlar:
+
 print_binary() fonksiyonu, herhangi bir sayı değerini istenen bit sayısı kadar binary olarak yazdırmak için eklenmiştir.
 
 Program, C standart kütüphaneleri <stdio.h> ve <ctype.h> kullanılarak geliştirilmiştir.
